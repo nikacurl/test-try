@@ -1,7 +1,7 @@
 testing line update
 untestind line
-the second line
 new line
 add text
 ccommit test
 branch line
+new line for git gui
